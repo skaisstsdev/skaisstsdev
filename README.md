@@ -16,7 +16,7 @@ https://portfolio-ignat.vercel.app
 Corporate website for a German elderly care company.
 
 Live:
-https://ksk-farmos.vercel.app
+https://ksk-farmos.de
 
 Technologies:
 HTML, CSS, JavaScript, Supabase, OpenAI API, EmailJS, Vercel
@@ -35,7 +35,7 @@ Features:
 Beauty salon website with booking management system.
 
 Live:
-https://beauty-glanz.vercel.app
+https://beautyglanz.de
 
 Technologies:
 HTML, CSS, JavaScript, Supabase, EmailJS, Vercel
@@ -54,7 +54,7 @@ Features:
 Modern café website concept.
 
 Live:
-https://matcha-matcha.vercel.app
+https://matchamatcha.site
 
 Technologies:
 React, Vite, JavaScript, GSAP, Three.js
